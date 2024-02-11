@@ -67,7 +67,7 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 .hero-main {
-  background-image: url("images/bot.png");
+  background-image: url("/images/bot.png");
   background-size: contain;
   background-position: center center;
   background-position-x: 32%;
