@@ -4,7 +4,7 @@ import { FaMedium, FaTelegram } from "react-icons/fa6";
 import { IoSend } from "react-icons/io5";
 function Footer() {
   return (
-    <section className=" mt-0   pb-10 relative z-10  ">
+    <section className=" mt-0   pb-10 relative z-20 bg-black   ">
       <div className=" container-wrapper relative z-30">
         <div>
           <img
@@ -59,7 +59,7 @@ function Footer() {
           |<p className="font-mon text-sm sm:text-base">2024©</p>
         </div>
       </div>
-      <img src="images/ddd.png" alt="" className=" absolute left-0 bottom-0 h-[100%] sm:h-[205%]" />
+      <img src="images/ddd.png" alt="" className=" absolute left-0 bottom-0 h-[100%] sm:h-[205%] blur-[4px] sm:blur-0" />
       <img src="images/droid.png" alt="" className=" absolute right-0 bottom-0 h-auto sm:h-[1200px] hidden sm:block" />
     </section>
   );

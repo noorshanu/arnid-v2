@@ -92,10 +92,10 @@ function Tokenomic() {
             <img src="images/coin.png" alt="" className=" h-[40px]" />
           </div>
 
-          <div className=" flex items-center justify-center sm:justify-normal gap-4">
+          {/* <div className=" flex items-center justify-center sm:justify-normal gap-4">
             <p className=" text-xl font-mon">Buy on: </p>
             <img src="images/proof.png" alt="" className=" h-[40px]" />
-          </div>
+          </div> */}
         </div>
       </div>
       <img
